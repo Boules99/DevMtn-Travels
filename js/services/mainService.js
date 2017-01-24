@@ -12,7 +12,7 @@ angular.module('devmtnTravel').service('mainSrv', function(){
         city: 'Paris',
         country: 'France',
         image: "../img/Paris.jpg",
-        desc: "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its picturesque 19th-century cityscape is crisscrossed by wide boulevards and the River Sein",
+        desc: "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its picturesque 19th-century cityscape is crisscrossed by wide boulevards and the River Seine",
         id: 1122343,
         price: 909
     },{
